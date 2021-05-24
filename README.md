@@ -10,3 +10,5 @@ My team name is Technovic.Our project was to create a shopping app and we are ha
 BFH/recPsDlurW5P20f7p/2021
 ## Link to product walkthrough
 https://www.loom.com/share/2fea2e4fd5c74c8bbcd7c6018d4a3154
+## Apk File
+https://drive.google.com/file/d/1cpmSnvE4cpzIlfDva5rZ-YjiXf7Qu5XT/view?usp=sharing
